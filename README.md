@@ -1,5 +1,13 @@
 # ASCII Camera
 
+**🌐 Live demo:** [igarvsoni.github.io/ascii-camera](https://igarvsoni.github.io/ascii-camera/)
+
+### 📱 Open on mobile
+
+Scan to launch on your phone:
+
+<img src="qr-code.png" alt="QR code to ASCII Camera" width="200" />
+
 ## What Is This?
 
 ASCII Camera is a browser-based tool that turns your webcam feed into real-time ASCII art. It has an IDE/code-editor inspired interface. Everything runs locally — no server, no uploads, no data leaves your machine.
